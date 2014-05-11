@@ -1,0 +1,10 @@
+PODS:
+  - SharedInstanceGCD (1.0.2)
+
+DEPENDENCIES:
+  - SharedInstanceGCD
+
+SPEC CHECKSUMS:
+  SharedInstanceGCD: 9f46dbf587a3194828fab35d255ebab524062426
+
+COCOAPODS: 0.32.1
